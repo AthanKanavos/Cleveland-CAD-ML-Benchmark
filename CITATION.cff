@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript (when published) and the UCI Heart Disease dataset."
+title: "Comparative and Explainable Machine Learning for Coronary Artery Disease Classification"
+type: software
+authors:
+  - family-names: Kanavos
+    given-names: Athanasios
+  - family-names: Aravanis
+    given-names: Theofanis
+  - family-names: Ioannou
+    given-names: Konstantinos
+version: 1.0.0
+abstract: "Python analysis workflow for comparative coronary artery disease classification using the Cleveland Heart Disease dataset."
+keywords:
+  - coronary artery disease
+  - Cleveland Heart Disease dataset
+  - machine learning
+  - classification
+  - explainable artificial intelligence
+  - SHAP
